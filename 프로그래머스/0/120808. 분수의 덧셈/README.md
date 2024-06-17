@@ -1,6 +1,6 @@
 # [level 0] 분수의 덧셈 - 120808 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120808?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120808?language=java) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 06월 17일 22:54:10
+2024년 06월 17일 22:54:19
 
 ### 문제 설명
 
