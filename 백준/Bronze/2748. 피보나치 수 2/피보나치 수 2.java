@@ -11,8 +11,10 @@ public class Main {
 		long result = 0;
 		for (int i = 2; i < num_list.length; i++) {
 			num_list[i] = num_list[i-1] + num_list[i-2];
+		    
 		}
-		System.out.println(num_list[fibo]);
+		result = num_list[num_list.length-1];
+		System.out.println(result);
 		
 	}
 
