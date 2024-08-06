@@ -11,9 +11,6 @@ def solution(t, p):
         
         if len(a) == len(p):
             if t[i:i+len(p)] <= p:
-                
                 answer += 1
-            
-    # print(a)
-        
+  
     return answer
