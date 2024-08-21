@@ -1,0 +1,5 @@
+-- 코드를 작성해주세요
+select FISH_INFO.ID, FISH_NAME_INFO.FISH_NAME, FISH_INFO.length
+from FISH_NAME_INFO join FISH_INFO  on FISH_NAME_INFO.FISH_TYPE = FISH_INFO.FISH_TYPE
+where FISH_INFO.FISH_TYPE in (select FISH_TYPE from FISH_INFO group by FISH_TYPE HAVING FISH_INFO.length = MAX(FISH_INFO.length) )  
+# where FISH_INFO.length in (select FISH_TYPE  from FISH_NAME_INFO group by FISH_TYPE ) 
