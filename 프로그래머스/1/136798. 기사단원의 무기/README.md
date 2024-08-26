@@ -1,6 +1,6 @@
 # [level 1] 기사단원의 무기 - 136798 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/136798?language=java) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/136798) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 08월 26일 20:36:19
+2024년 08월 26일 20:37:17
 
 ### 문제 설명
 
