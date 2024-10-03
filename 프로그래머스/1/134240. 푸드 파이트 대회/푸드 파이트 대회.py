@@ -11,15 +11,10 @@ def solution(food):
     
     for i in food_list:
         if i == 3:
-            food_list_revesr.insert(0,'0')
+            food_list_revesre.insert(0,'0')
         food_list_reverse.append(str(int(i)))
         food_list_reverse.sort(reverse=True)
    
-    
         answer += i 
-       
-    
-        
-        
-        
+
     return answer+'0'+''.join(food_list_reverse)
