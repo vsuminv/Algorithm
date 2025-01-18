@@ -11,4 +11,4 @@ for i in range(M):
     else:
         num[i-1:j] = num[j-1:i-2:-1]
 for k in num:
-    print(k, end = ' ')
+    print(k, end = ' ') 
