@@ -1,18 +1,14 @@
 def solution(n):
     answer = 0
-    
-    
-    num = n
-    div = 6
-    
+    max_num = n
+    pizza_num = 6
     if n % 6 == 0:
         answer = n // 6
     else:
-        while div != 0:
-            num , div = div , num%div
-    
-        answer = n // num
-           
+        while pizza_num != 0:
+                max_num , pizza_num = pizza_num, max_num % pizza_num
             
-            
+        answer = n // max_num
+                
+                
     return answer
