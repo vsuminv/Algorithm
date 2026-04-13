@@ -1,10 +1,10 @@
 # [level 0] 배열 뒤집기 - 120821 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120821?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120821?language=java) 
 
 ### 성능 요약
 
-메모리: 9.3 MB, 시간: 0.00 ms
+메모리: 81 MB, 시간: 0.02 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 04월 13일 10:45:34
+2026년 04월 13일 11:25:13
 
 ### 문제 설명
 
