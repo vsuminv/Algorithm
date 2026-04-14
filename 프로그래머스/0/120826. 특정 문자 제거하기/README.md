@@ -1,10 +1,10 @@
 # [level 0] 특정 문자 제거하기 - 120826 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120826) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120826?language=java) 
 
 ### 성능 요약
 
-메모리: 9.09 MB, 시간: 0.27 ms
+메모리: 75.5 MB, 시간: 2.58 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 04월 14일 10:16:40
+2026년 04월 14일 11:07:42
 
 ### 문제 설명
 
