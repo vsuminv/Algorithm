@@ -1,13 +1,14 @@
 def solution(hp):
     answer = 0
-    cnt = 0
     if hp != 0:
-        cnt += hp//5
-        hp %= 5
+        answer += hp // 5
+        hp = hp % 5
         
-        cnt += hp//3
-        hp %= 3
+        answer += hp // 3
+        hp = hp % 3
         
-        cnt += hp//1
-        hp %= 1
-    return cnt
+        answer += hp //1
+        hp = hp % 1
+        
+        
+    return answer
