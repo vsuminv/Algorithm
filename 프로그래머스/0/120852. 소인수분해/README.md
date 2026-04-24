@@ -1,10 +1,10 @@
 # [level 0] 소인수분해 - 120852 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120852#) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120852) 
 
 ### 성능 요약
 
-메모리: 9.25 MB, 시간: 0.89 ms
+메모리: 90.4 MB, 시간: 0.17 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 04월 24일 12:05:35
+2026년 04월 24일 14:33:25
 
 ### 문제 설명
 
