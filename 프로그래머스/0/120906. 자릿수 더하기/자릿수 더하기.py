@@ -1,5 +1,5 @@
 def solution(n):
     answer = 0
-    n_list = map(int, list(str(n)))
+    n_list = map(int, str(n))
     answer = sum(n_list)
     return answer
